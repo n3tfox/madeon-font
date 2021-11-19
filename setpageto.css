@@ -1,0 +1,7 @@
+@font-face {
+  font-family:"madeon-imperial";
+  src:url(https://n3tfox.github.io/madeon-font/ImperialBlackRegular.ttf);
+}
+* {
+  font-family:"madeon-imperial";
+}
