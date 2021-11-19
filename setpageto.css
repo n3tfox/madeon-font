@@ -3,5 +3,5 @@
   src:url(https://n3tfox.github.io/madeon-font/ImperialBlackRegular.ttf);
 }
 * {
-  font-family:"madeon-imperial";
+  font-family:"madeon-imperial"!important;
 }
