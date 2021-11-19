@@ -5,7 +5,7 @@
 * {
   font-family:"madeon-imperial"!important;
 }
-* > div > table {
+table, div, a, p, h1, h2, h3, h4, h5, h6, span, section, td, tr, th {
   font-family:"madeon-imperial"!important;
 }
 * * {
