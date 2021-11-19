@@ -5,9 +5,29 @@
 * {
   font-family:"madeon-imperial"!important;
 }
-mail.google.com###\:99 > div > table {
+* > div > table {
   font-family:"madeon-imperial"!important;
 }
 * * {
-  font-familt:"madeon-imperial"!important;
+  font-family:"madeon-imperial"!important;
+}
+
+* * *{
+  font-family:"madeon-imperial"!important;
+}
+
+* > *{
+  font-family:"madeon-imperial"!important;
+}
+
+* * * *{
+  font-family:"madeon-imperial"!important;
+}
+
+* * * * * {
+  font-family:"madeon-imperial"!important;
+}
+
+body {
+  font-family:"madeon-imperial"!important;
 }
